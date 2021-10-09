@@ -1,4 +1,3 @@
-Arrays Review, creates an array of animal names and finds the longest name, adds a 'z' to the end of every animal name, and prints them all with commas.
 <!--
 **SKILLZS/SKILLZS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
