@@ -1,6 +1,4 @@
-// Mason Harris
-// Per.1
-// 9/12/21
+//Arrays Review, creates an array of animal names and finds the longest name, adds a 'z' to the end of every animal name, and prints them all with commas.
 
 public class ArraysReview {
 public static void main(String[] args){
