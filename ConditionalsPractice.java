@@ -1,5 +1,5 @@
-//Mason
-//
+//Creates a method that take 3 numbers, each number being a side of a triangle, and tells you the type of it
+//Pick a random number and if its even 3 times in a row you get a message 
 
 public class ConditionalsPractice {
     public static void main(String[] args) {
@@ -8,7 +8,7 @@ public class ConditionalsPractice {
     }
 
     public static void printTriangleType(int a, int b, int c)throws IllegalArgumentException{
-        if((a != b && b!= c)){
+        if((a != b && b!= c && c != b)){
             System.out.println("Scalene");
         }
 
@@ -45,21 +45,4 @@ public class ConditionalsPractice {
             }
         }
     }
-
-    /*
-    A. !(b)
-    B. !(x <= y || y <= z)
-    C. !(x != y && x > z)
-    D. !(x * 2 == 0 || !(b))
-    E. !(x * 2 != 13 && !(b) && !(z / 3 != 96))
-    F. !(z >= x || z <= y && x < y)
-
-
-    < becomes >=
-    > becomes <=
-    == becomes !=
-    <= becomes >
-    >= becomes <
-    != becomes ==
-     */
 }
