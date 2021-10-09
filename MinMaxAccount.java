@@ -1,3 +1,5 @@
+//Answer to an assignment
+
 public class MinMaxAccount extends BankAccount{
 
     double minimum;
