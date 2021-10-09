@@ -1,3 +1,5 @@
+//Answer to an assignment
+
 import java.io.File;
 import java.util.Scanner;
 import java.io.FileNotFoundException;
