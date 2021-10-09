@@ -1,3 +1,5 @@
+//Answer to an assignment
+
 import java.util.*;
 
 public class QueueVip {
